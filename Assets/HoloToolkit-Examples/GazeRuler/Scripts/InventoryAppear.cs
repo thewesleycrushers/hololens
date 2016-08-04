@@ -6,7 +6,7 @@ public class InventoryAppear : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         
-        GetComponent<MeshRenderer>().enabled = false;
+        GetComponent<Renderer>().enabled = false;
 
     }
 	
@@ -18,6 +18,7 @@ public class InventoryAppear : MonoBehaviour {
     //called by SpeechManager
     void onInventory()
     {
-        GetComponent<MeshRenderer>().enabled = true;
+        Debug.LogWarning("open inventory triggered in game object");
+        GetComponent<Renderer>().enabled = true;
     }
 }
