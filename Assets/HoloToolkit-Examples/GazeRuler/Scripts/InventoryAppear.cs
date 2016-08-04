@@ -21,4 +21,10 @@ public class InventoryAppear : MonoBehaviour {
         Debug.LogWarning("open inventory triggered in game object");
         GetComponent<Renderer>().enabled = true;
     }
+
+    void onClose()
+    {
+        Debug.LogWarning("open inventory triggered in game object");
+        GetComponent<Renderer>().enabled = false;
+    }
 }

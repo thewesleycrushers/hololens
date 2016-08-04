@@ -11,10 +11,11 @@ public class SpeechManager : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        keywords.Add("Reset world", () =>
+        keywords.Add("Close", () =>
         {
             // Call the OnReset method on every descendant object.
-            this.BroadcastMessage("OnReset");
+            //this.BroadcastMessage("OnReset");
+            BroadcastMessage("onClose");
         });
 
         keywords.Add("Open", () =>
