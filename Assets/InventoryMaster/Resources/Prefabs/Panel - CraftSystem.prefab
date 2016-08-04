@@ -635,7 +635,7 @@ MonoBehaviour:
   inventoryCrossRectTransform: {fileID: 22479142}
   inventoryCrossPosX: 0
   inventoryCrossPosY: 0
-  inventoryTitle: 437261667453797374656d
+  inventoryTitle: CraftSystem
   inventoryTitleText: {fileID: 11471406}
   inventoryTitlePosX: 0
   inventoryTitlePosY: 171
@@ -671,9 +671,12 @@ MonoBehaviour:
   SlotGridRectTransform: {fileID: 22471410}
   mainInventory: 0
   ItemsInInventory:
-  - itemName: 4368657374
+  - itemName: Chest
     itemID: 2
-    itemDesc: 5468697320697320612076657279206e6963652063686573742e0a0a2b31302041726d6f72
+    itemDesc: 'This is a very nice chest.
+
+
+      +10 Armor'
     itemIcon: {fileID: 21300000, guid: fcd8bd2db18e92d42a7d14fc0e395888, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -681,10 +684,14 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 1
     indexItemInList: 0
+    rarity: 0
     itemAttributes: []
-  - itemName: 4368657374
+  - itemName: Chest
     itemID: 2
-    itemDesc: 5468697320697320612076657279206e6963652063686573742e0a0a2b31302041726d6f72
+    itemDesc: 'This is a very nice chest.
+
+
+      +10 Armor'
     itemIcon: {fileID: 21300000, guid: fcd8bd2db18e92d42a7d14fc0e395888, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -692,8 +699,9 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 1
     indexItemInList: 1
+    rarity: 0
     itemAttributes: []
-  - itemName: 4348455354493333
+  - itemName: CHESTI33
     itemID: 5
     itemDesc: 
     itemIcon: {fileID: 21300000, guid: 34ce9c8524e37f549bc4de2bbdd96429, type: 3}
@@ -703,8 +711,9 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 1
     indexItemInList: 2
+    rarity: 0
     itemAttributes: []
-  - itemName: 434845535449
+  - itemName: CHESTI
     itemID: 4
     itemDesc: 
     itemIcon: {fileID: 21300000, guid: 94feb6ac7e57fb34bb8d8f48f554ff82, type: 3}
@@ -714,10 +723,14 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 1
     indexItemInList: 3
+    rarity: 0
     itemAttributes: []
-  - itemName: 426f74746c65
+  - itemName: Bottle
     itemID: 1
-    itemDesc: 496620796f75206472696e6b2074686973206e69636520626f74746c6520796f752077696c6c2067657420736f6d65206865616c7468206261636b2e0a0a2b203230204865616c7468
+    itemDesc: 'If you drink this nice bottle you will get some health back.
+
+
+      + 20 Health'
     itemIcon: {fileID: 21300000, guid: 325a3dd7a93355d4e91d76fda74ca99f, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -725,10 +738,14 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 50
     indexItemInList: 4
+    rarity: 0
     itemAttributes: []
-  - itemName: 426f74746c65
+  - itemName: Bottle
     itemID: 1
-    itemDesc: 496620796f75206472696e6b2074686973206e69636520626f74746c6520796f752077696c6c2067657420736f6d65206865616c7468206261636b2e0a0a2b203230204865616c7468
+    itemDesc: 'If you drink this nice bottle you will get some health back.
+
+
+      + 20 Health'
     itemIcon: {fileID: 21300000, guid: 325a3dd7a93355d4e91d76fda74ca99f, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 20
@@ -736,10 +753,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 50
     indexItemInList: 5
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -747,10 +765,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 6
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -758,10 +777,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 7
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 5
@@ -769,10 +789,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 8
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 3
@@ -780,10 +801,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 9
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 2
@@ -791,10 +813,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 10
+    rarity: 0
     itemAttributes: []
-  - itemName: 485020426f74746c65
+  - itemName: HP Bottle
     itemID: 7
-    itemDesc: 2b3130204850
+    itemDesc: +10 HP
     itemIcon: {fileID: 21300000, guid: abcf74e1d10656842af1b13cefdfbe23, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 2
@@ -802,10 +825,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 11
+    rarity: 0
     itemAttributes: []
-  - itemName: 485020426f74746c65
+  - itemName: HP Bottle
     itemID: 7
-    itemDesc: 2b3130204850
+    itemDesc: +10 HP
     itemIcon: {fileID: 21300000, guid: abcf74e1d10656842af1b13cefdfbe23, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 3
@@ -813,10 +837,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 12
+    rarity: 0
     itemAttributes: []
-  - itemName: 485020426f74746c65
+  - itemName: HP Bottle
     itemID: 7
-    itemDesc: 2b3130204850
+    itemDesc: +10 HP
     itemIcon: {fileID: 21300000, guid: abcf74e1d10656842af1b13cefdfbe23, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -824,10 +849,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 13
+    rarity: 0
     itemAttributes: []
-  - itemName: 485020426f74746c65
+  - itemName: HP Bottle
     itemID: 7
-    itemDesc: 2b3130204850
+    itemDesc: +10 HP
     itemIcon: {fileID: 21300000, guid: abcf74e1d10656842af1b13cefdfbe23, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 4
@@ -835,6 +861,7 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 14
+    rarity: 0
     itemAttributes: []
   - itemName: 
     itemID: 0
@@ -846,6 +873,7 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 1
     indexItemInList: 999
+    rarity: 0
     itemAttributes: []
   - itemName: 
     itemID: 0
@@ -857,6 +885,7 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 1
     indexItemInList: 999
+    rarity: 0
     itemAttributes: []
   - itemName: 
     itemID: 0
@@ -868,6 +897,7 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 1
     indexItemInList: 999
+    rarity: 0
     itemAttributes: []
   - itemName: 
     itemID: 0
@@ -879,6 +909,7 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 1
     indexItemInList: 999
+    rarity: 0
     itemAttributes: []
   - itemName: 
     itemID: 0
@@ -890,6 +921,7 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 1
     indexItemInList: 999
+    rarity: 0
     itemAttributes: []
   - itemName: 
     itemID: 0
@@ -901,10 +933,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 1
     indexItemInList: 999
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -912,10 +945,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 21
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -923,10 +957,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 22
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850
+  - itemName: HP
     itemID: 7
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: 98098aa1ea4ae684d87b3c8eeb3d8f98, type: 3}
     itemModel: {fileID: 0}
     itemValue: 3
@@ -934,10 +969,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 23
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 3
@@ -945,10 +981,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 24
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 2
@@ -956,10 +993,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 25
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -967,10 +1005,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 26
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 4
@@ -978,10 +1017,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 27
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -989,10 +1029,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 28
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1000,10 +1041,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 29
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1011,10 +1053,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 30
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1022,10 +1065,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 31
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1033,10 +1077,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 32
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1044,10 +1089,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 33
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1055,10 +1101,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 999
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1066,10 +1113,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 999
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1077,10 +1125,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 999
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1088,10 +1137,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 999
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1099,10 +1149,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 38
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1110,10 +1161,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 39
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 3
@@ -1121,10 +1173,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 40
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1132,10 +1185,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 41
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 4
@@ -1143,10 +1197,14 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 42
+    rarity: 0
     itemAttributes: []
-  - itemName: 426f74746c65
+  - itemName: Bottle
     itemID: 1
-    itemDesc: 496620796f75206472696e6b2074686973206e69636520626f74746c6520796f752077696c6c2067657420736f6d65206865616c7468206261636b2e0a0a2b203230204865616c7468
+    itemDesc: 'If you drink this nice bottle you will get some health back.
+
+
+      + 20 Health'
     itemIcon: {fileID: 21300000, guid: 325a3dd7a93355d4e91d76fda74ca99f, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1154,10 +1212,14 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 50
     indexItemInList: 43
+    rarity: 0
     itemAttributes: []
-  - itemName: 426f74746c65
+  - itemName: Bottle
     itemID: 1
-    itemDesc: 496620796f75206472696e6b2074686973206e69636520626f74746c6520796f752077696c6c2067657420736f6d65206865616c7468206261636b2e0a0a2b203230204865616c7468
+    itemDesc: 'If you drink this nice bottle you will get some health back.
+
+
+      + 20 Health'
     itemIcon: {fileID: 21300000, guid: 325a3dd7a93355d4e91d76fda74ca99f, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1165,10 +1227,14 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 50
     indexItemInList: 44
+    rarity: 0
     itemAttributes: []
-  - itemName: 426f74746c65
+  - itemName: Bottle
     itemID: 1
-    itemDesc: 496620796f75206472696e6b2074686973206e69636520626f74746c6520796f752077696c6c2067657420736f6d65206865616c7468206261636b2e0a0a2b203230204865616c7468
+    itemDesc: 'If you drink this nice bottle you will get some health back.
+
+
+      + 20 Health'
     itemIcon: {fileID: 21300000, guid: 325a3dd7a93355d4e91d76fda74ca99f, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 1
@@ -1176,8 +1242,9 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 50
     indexItemInList: 45
+    rarity: 0
     itemAttributes: []
-  - itemName: 4348455354493333
+  - itemName: CHESTI33
     itemID: 5
     itemDesc: 
     itemIcon: {fileID: 21300000, guid: 34ce9c8524e37f549bc4de2bbdd96429, type: 3}
@@ -1187,10 +1254,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 1
     indexItemInList: 46
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 5
@@ -1198,10 +1266,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 47
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 5
@@ -1209,10 +1278,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 48
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850204472696e6b
+  - itemName: HP Drink
     itemID: 6
-    itemDesc: 2b203130204865616c7468
+    itemDesc: + 10 Health
     itemIcon: {fileID: 21300000, guid: 6dc5762501dd2df4da399f6c16a85907, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 5
@@ -1220,10 +1290,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 49
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850
+  - itemName: HP
     itemID: 7
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: 98098aa1ea4ae684d87b3c8eeb3d8f98, type: 3}
     itemModel: {fileID: 0}
     itemValue: 5
@@ -1231,10 +1302,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 50
+    rarity: 0
     itemAttributes: []
-  - itemName: 4850
+  - itemName: HP
     itemID: 7
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: 98098aa1ea4ae684d87b3c8eeb3d8f98, type: 3}
     itemModel: {fileID: 0}
     itemValue: 5
@@ -1242,10 +1314,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 51
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 5
@@ -1253,10 +1326,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 52
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 5
@@ -1264,10 +1338,11 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 53
+    rarity: 0
     itemAttributes: []
-  - itemName: 4170706c65
+  - itemName: Apple
     itemID: 8
-    itemDesc: 2b3130204865616c7468
+    itemDesc: +10 Health
     itemIcon: {fileID: 21300000, guid: a4d3f378d1a88f346af15ee906321f2a, type: 3}
     itemModel: {fileID: 100000, guid: 40da790cc27843b45b9c255c8d996b43, type: 2}
     itemValue: 5
@@ -1275,6 +1350,7 @@ MonoBehaviour:
     itemWeight: 0
     maxStack: 5
     indexItemInList: 54
+    rarity: 0
     itemAttributes: []
   height: 3
   width: 3

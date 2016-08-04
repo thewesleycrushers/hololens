@@ -110,8 +110,9 @@ MonoBehaviour:
   inventory: {fileID: 0}
   storageItems: []
   itemDatabase: {fileID: 11400000, guid: 964f317a23cc9f0418bb3778fccd8ebb, type: 2}
-  keycode: 101
   distanceToOpenStorage: 3
+  timeToOpenStorage: 0
+  itemAmount: 0
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
