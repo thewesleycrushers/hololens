@@ -31,7 +31,7 @@ public class ModeTip : Singleton<ModeTip>
     {
         if (gameObject.activeInHierarchy)
         {
-            Debug.Log("pos: " + gameObject.transform.position);
+            //Debug.Log("pos: " + gameObject.transform.position);
 
             switch (MeasureManager.Instance.mode)
             {

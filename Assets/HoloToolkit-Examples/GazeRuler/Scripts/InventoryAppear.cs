@@ -6,7 +6,7 @@ public class InventoryAppear : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         
-        GetComponent<Renderer>().enabled = false;
+        GetComponent<MeshRenderer>().enabled = false;
 
     }
 	
@@ -18,6 +18,6 @@ public class InventoryAppear : MonoBehaviour {
     //called by SpeechManager
     void onInventory()
     {
-        GetComponent<Renderer>().enabled = true;
+        GetComponent<MeshRenderer>().enabled = true;
     }
 }

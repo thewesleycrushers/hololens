@@ -17,9 +17,11 @@ public class SpeechManager : MonoBehaviour
             this.BroadcastMessage("OnReset");
         });
 
-        keywords.Add("Open Inventory", () =>
+        keywords.Add("Open", () =>
         {
-            this.BroadcastMessage("OnInventory");
+            print("Open Inventory triggered");
+            Debug.LogWarning("open inventory triggered");
+            BroadcastMessage("onInventory");
         });
 
         // Tell the KeywordRecognizer about our keywords.
